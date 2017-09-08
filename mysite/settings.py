@@ -25,7 +25,7 @@ SECRET_KEY = 'k_dis2gl(l3hl*!@#l9(%0tmd5%%d4v=w1*l+7=v3nn_m@img7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['annnikon.pythonanywhere.com', '127.0.0.1' ]
 
 
 # Application definition
